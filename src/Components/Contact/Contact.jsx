@@ -7,7 +7,7 @@ export default function Contact() {
         <h1>CONATCT SECTION</h1>
         <div className="star d-flex justify-content-center align-items-center py-2 my-3">
           <div className="line dark-star"></div>
-          <i className="fa-solid fa-star"></i>
+          <i className="fa-solid fa-star px-2"></i>
           <div className="line dark-star"></div>
         </div>
 
